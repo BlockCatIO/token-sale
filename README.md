@@ -5,3 +5,5 @@ The files that will be deployed are `CATToken.sol` and `CATFreezer.sol`. The res
 ABI files are provided for anyone who wishes to interface with the contract.
 
 Any vulnerabilities or bugs can be responsibly disclosed by opening an issue.
+
+Copyright 2017 BlockCAT Technologies Inc. All Rights Reserved.
